@@ -1,0 +1,8 @@
+export default {
+  UPDATE_LOCATION: '@@location/UPDATE_LOCATION',
+  UPDATE_MY_LOCATION: '@@location/UPDATE_MY_LOCATION',
+  // TODO use separate event for geocoding
+  // REVERSE_GEOCODING_FETCH: '@@location/REVERSE_GEOCODING_FETCH',
+  // REVERSE_GEOCODING_SUCCESS: '@@location/REVERSE_GEOCODING_SUCCESS',
+  // REVERSE_GEOCODING_ERROR: '@@location/REVERSE_GEOCODING_ERROR',
+}
